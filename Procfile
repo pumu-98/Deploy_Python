@@ -1,1 +1,1 @@
-worker:python framy.py
+worker: python framy.py
